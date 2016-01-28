@@ -15,7 +15,7 @@ class GuessGame{
 		while(i==0){
 			yournum = sc.nextInt();
 			if(yournum == targetnum){
-				System.out.println("Correct You are lucky!!");
+				System.out.println("Correct!");
 				i=1;
 
 
